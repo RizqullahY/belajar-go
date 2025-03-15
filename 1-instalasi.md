@@ -1,5 +1,5 @@
-Karena saya pakai linux jadi langkahnya kurleb seperti ini
-Sumbernya yakni dari https://www.cherryservers.com/blog/install-go-ubuntu
+### Instalasi Golang di UBUNTU
+SOURCE : https://www.cherryservers.com/blog/install-go-ubuntu
 
 ```bash 
 sudo apt update
